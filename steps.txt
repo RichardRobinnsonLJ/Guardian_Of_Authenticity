@@ -1,0 +1,6 @@
+1. Run the install_dependencies.bat file
+2. If you have any problem downloading dependencies through the bat file install it either using pip install command or conda install command
+3. Go inside the Flask directory either from you command prompt or anaconda prompt and type 
+> python app.py
+4.Hit enter and now you can see the web page.
+5. If you have any issue ensure whether you have installed all the required dependencies.
